@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyStoryApps</string>
+
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="or_sign_up">Atau Daftar</string>
+
+    <string name="register_success">Pendaftaran Berhasil</string>
+    <string name="unauthorized">Email atau password mungkin salah</string>
+    <string name="success_login">Berhasil Masuk. Hallo, </string>
+    <string name="login_failed">Gagal Masuk</string>
+
+    <string name="name">Nama</string>
+    <string name="photo">Foto</string>
+
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+
+    <string name="enter_name">"Masukkan Nama Anda"</string>
+    <string name="enter_email">"Masukkan email Anda"</string>
+    <string name="enter_password">"Masukkan kata sandi Anda"</string>
+
+    <string name="input_name">Silakan masukkan nama Anda di sini</string>
+    <string name="input_email">Silakan masukkan email Anda di sini</string>
+    <string name="input_pass">Silakan masukkan kata sandi Anda di sini</string>
+    <string name="invalid_email">Email tidak valid</string>
+
+    <string name="name_required">Nama diperlukan</string>
+    <string name="email_required">Email diperlukan</string>
+    <string name="password_required">Kata sandi diperlukan</string>
+    <string name="pass_length">Kata sandi harus memiliki 8 karakter</string>
+
+    <string name="token_is_null">Token kosong</string>
+
+    <string name="change_language">Ganti Bahasa</string>
+
+    <string name="logout">Keluar</string>
+    <string name="alert_logout">Apakah Anda yakin ingin keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="cancel">Batal</string>
+    <string name="error">"Error: "</string>
+    <string name="internal_server_error">Tidak Ada Koneksi Internet</string>
+    <string name="bad_request">Coba Lagi</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Deskripsi</string>
+    <string name="choose_pictures">Pilih Gambar</string>
+    <string name="input_picture">Silakan masukkan gambar</string>
+    <string name="input_desc">Silakan masukkan deskripsi</string>
+    <string name="message">Cerita berhasil dibuat</string>
+    <string name="message_error">"Error: "</string>
+    <string name="permission_error">Tidak mendapatkan izin</string>
+    <string name="go_login">Silahkan Login Terlebih Dahulu</string>
+
+    <string name="retry">Coba lagi</string>
+    <string name="title_activity_maps">AktivitasPeta</string>
+    <string name="maps">Peta</string>
+    <string name="location">Dengan lokasi</string>
+</resources>
