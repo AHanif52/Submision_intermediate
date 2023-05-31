@@ -1,7 +1,5 @@
 # Submision intermediate Dicoding
-
-
-## Screenshots
+Screenshot
 ![Login](https://drive.google.com/uc?export=view&id=1UNih-9liWe8NR0F1cKpocBc6YlUNJ1qq)
 ![Register](https://drive.google.com/uc?export=view&id=10thVZNnBE19Utln7nXFQuF2ZCbkOQEoS)
 ![Home](https://drive.google.com/uc?export=view&id=12Kae7uHDYn46roXawMQr3BSPXX8c9NmP)
