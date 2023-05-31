@@ -1,3 +1,5 @@
 # Submision intermediate Dicoding
 
- ![image.png]( https://media.formula1.com/content/dam/fom-website/drivers/2023Drivers/verstappen.jpg.img.1920.medium.jpg/1677069646195.jpg )
+
+## Screenshots
+![App Screenshot](https://drive.google.com/file/d/1UNih-9liWe8NR0F1cKpocBc6YlUNJ1qq/view?usp=share_link)
